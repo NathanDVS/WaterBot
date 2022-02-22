@@ -1,0 +1,7 @@
+hikari-lightbulb
+datetime
+pymongo
+typing
+humanfriendly
+pypixel-api
+hikari
